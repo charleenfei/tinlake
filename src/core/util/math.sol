@@ -88,5 +88,4 @@ contract Math {
     function div(uint x, uint y) public pure returns (uint z) {
         z = x / y;
     }
-
 }
